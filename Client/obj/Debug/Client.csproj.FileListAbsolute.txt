@@ -1,0 +1,9 @@
+c:\users\osama\documents\visual studio 2015\Projects\chat application with crypto stream\Client\bin\Debug\Client.exe.config
+c:\users\osama\documents\visual studio 2015\Projects\chat application with crypto stream\Client\bin\Debug\Client.exe
+c:\users\osama\documents\visual studio 2015\Projects\chat application with crypto stream\Client\bin\Debug\Client.pdb
+c:\users\osama\documents\visual studio 2015\Projects\chat application with crypto stream\Client\obj\Debug\Client.Form1.resources
+c:\users\osama\documents\visual studio 2015\Projects\chat application with crypto stream\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\osama\documents\visual studio 2015\Projects\chat application with crypto stream\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\osama\documents\visual studio 2015\Projects\chat application with crypto stream\Client\obj\Debug\Client.exe
+c:\users\osama\documents\visual studio 2015\Projects\chat application with crypto stream\Client\obj\Debug\Client.pdb
+c:\users\osama\documents\visual studio 2015\Projects\chat application with crypto stream\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
